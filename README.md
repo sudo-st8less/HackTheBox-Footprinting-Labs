@@ -6,5 +6,5 @@
 <br>
 <mark>This repo is a work in progress, there are many hundreds of pages of notes I have to edit before commit. </mark>
 
-<mark>I've censored the actual flag for each lab, but the process to find it yourself is documneted thoroughly. </mark>
+<mark>I've partially censored the actual flag text, but the process to find it yourself is documented thoroughly. </mark>
 
