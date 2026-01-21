@@ -9,4 +9,4 @@
 
 -I've partially censored the actual flag text in an effort to avoid scraping and pissing HTB off, but the process to find it yourself is documented thoroughly.
 
--Each module has it's own repo, check <a href="https://github.com/sudo-st8less?tab=repositories">my profile</a> for others<br> 
+-Each CPTS module has it's own repo, check <a href="https://github.com/sudo-st8less?tab=repositories">my profile</a> for others<br> 
