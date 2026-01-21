@@ -5,7 +5,7 @@
 <br> 
 <br>
 
--These repos are a work in progress, there are many hundreds of pages of notes I have to edit before commit.
+-These repos are a work in progress,there are hundreds of pages of notes I'm rereading and editing before commit.
 
 -I've partially censored the actual flag text in an effort to avoid scraping and pissing HTB off, but the process to find it yourself is documented thoroughly.
 
