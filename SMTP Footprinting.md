@@ -48,7 +48,7 @@ Downloaded 'footprinting-wordlist.txt' from Github, then used smtp-user-enum too
 	10.129.53.175: joseph <no such user>
 	10.129.53.175: william <no such user>
 	10.129.53.175: richard <no such user>
---snip--
+	--snip--
 	10.129.53.175: brenda <no such user>
 	10.129.53.175: robin exists
 	10.129.53.175: rachel <no such user>
