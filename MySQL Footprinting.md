@@ -1,4 +1,4 @@
-# &#x1F6A9; IMAP & POP3 Footprinting <br>
+# &#x1F6A9; MySQL Footprinting <br>
 <mark>hook it up with a &#x2B50; if this helps!</mark> <br>
 🐦: @<a href="https://x.com/st8less">**st8less**</a>
 <br>
