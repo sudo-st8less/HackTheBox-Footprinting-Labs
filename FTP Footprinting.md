@@ -27,6 +27,6 @@ Easy wget anon login:
 
 	wget -m --no-passive ftp://anonymous:anonymous@10.129.202.5
 
-(this downloaded entire ftp directory to local pwd)
+(this downloaded entire ftp directory to local cwd)
 
 &#x1F6A9;**HTB{b7skjr4c76zhsds7--edit--**
