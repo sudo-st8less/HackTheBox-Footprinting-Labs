@@ -1,5 +1,5 @@
-## Hack The Box Academy CPTS - Footprinting Labs
-## This repo is part of my full catalog of walkthroughs for all labs in the Hack The Box CPTS career path on HTB Academy. <br>
+# Hack The Box Academy CPTS - Footprinting Labs
+### This repo is part of my full catalog of walkthroughs for all labs in the Hack The Box CPTS career path on HTB Academy. <br>
 
 ### <mark>hook the repo up with a &#x2B50; if it helps plz</mark>
 ### 🐦: @<a href="https://x.com/st8less">**st8less**</a>
